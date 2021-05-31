@@ -5,7 +5,7 @@ This is a Telegram URL Upload Bot!
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 Hits /help for more details..
 
-➟ <b>Made by @ZauteKm</b>"""
+➟ <b>Made by @craze_x_harry</b>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/ZauteKm/URL-Uploader'>Click here, Fork and Deploy!!</a>"
